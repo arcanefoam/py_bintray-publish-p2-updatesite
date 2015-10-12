@@ -1,7 +1,7 @@
 Python bintray-publish-p2-updatesite
 ====================================
 
-Python script which allows to upload a p2 update-site to bintray. To run, clone this repository and execute the script, you must have python installed in your computer.  
+Python script which allows to manage a p2 update-site in Bintray. To run, clone this repository and execute the script, you must have python installed in your computer.  
 
 **usage:**
 
