@@ -29,6 +29,6 @@ This script can be used to manage an Eclipse p2 Updatesite in Bintray.
   -n N                Package Name
   -e E                Package Version
   -l L                Path to repository location in local machine. If no
-                      pathis given only the publish (POST) request is sent.
+                      path is given only the publish (POST) request is sent.
   --version           show program's version number and exit
 ```
